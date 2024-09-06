@@ -8,10 +8,9 @@ function Home ()
 {
     return (
         <div>
-            <div className="font-sans bg-gray-100 min-h-screen">
-                <Hero />
-                <Features />
-                <CallAction />
+            <div className='m-10'>
+                <div className='text-5xl'>AYUSH STARTUP</div>
+                <div className='text-5xl'>CHALLENGE</div>
             </div>
         </div>
     );
